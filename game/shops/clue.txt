@@ -1,0 +1,5 @@
+Investigation Update:
+
+A staff member mentions checking the town hall.
+
+Hint: To reach this location, you'll need to move back and down to the next location: 'cd "../town hall"'
