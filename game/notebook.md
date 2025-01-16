@@ -21,3 +21,6 @@ Locations of suspects found:
 Locations of weapons found:
 - The Leather Gloves are in the art room at school.
 - The Silver Watch is in the town hall.
+
+Final observation:
+- The Clockmaker and the Fountain Pen were nowhere to be found.
