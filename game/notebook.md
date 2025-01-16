@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Mayor
+- [X] The Mayor
 - [ ] The Clockmaker
 - [ ] The Shopkeeper
 
@@ -14,4 +14,5 @@
 *Use this space to record your findings and deductions...*
 It was determined from the clue.txt files that the crime occurred in the mansion.
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+Locations of suspects found:
+- The Mayor is in the park.
