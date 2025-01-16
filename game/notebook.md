@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Silver Watch
-- [ ] Leather Gloves
+- [X] Leather Gloves
 - [ ] Fountain Pen
 
 ## Notes
@@ -16,3 +16,6 @@ It was determined from the clue.txt files that the crime occurred in the mansion
 
 Locations of suspects found:
 - The Mayor is in the park.
+
+Locations of weapons found:
+- The Leather Gloves are in the art room at school.
