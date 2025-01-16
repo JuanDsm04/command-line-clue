@@ -3,7 +3,7 @@
 ## Suspects
 - [X] The Mayor
 - [ ] The Clockmaker
-- [ ] The Shopkeeper
+- [X] The Shopkeeper
 
 ## Weapons
 - [ ] Silver Watch
@@ -16,6 +16,7 @@ It was determined from the clue.txt files that the crime occurred in the mansion
 
 Locations of suspects found:
 - The Mayor is in the park.
+- The Shopkeeper is in the shops.
 
 Locations of weapons found:
 - The Leather Gloves are in the art room at school.
