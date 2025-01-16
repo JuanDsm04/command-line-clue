@@ -6,7 +6,7 @@
 - [X] The Shopkeeper
 
 ## Weapons
-- [ ] Silver Watch
+- [X] Silver Watch
 - [X] Leather Gloves
 - [ ] Fountain Pen
 
@@ -20,3 +20,4 @@ Locations of suspects found:
 
 Locations of weapons found:
 - The Leather Gloves are in the art room at school.
+- The Silver Watch is in the town hall.
